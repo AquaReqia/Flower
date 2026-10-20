@@ -1,0 +1,4 @@
+Soru: {{question}}
+
+Kaynaklar:
+{{sources}}
